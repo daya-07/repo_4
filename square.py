@@ -1,3 +1,3 @@
 a = int(input("Enter a number to find its square: "))
 
-print(a * a)
+print("Square: ", a * a)
